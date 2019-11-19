@@ -1,0 +1,107 @@
+[
+    {
+        "adminLogin": {
+            "mobile": "8807897696",
+            "password": "sathish",
+            "role": "admin"
+        },
+        "adduserbyadmin": {
+            "mobile": "",
+            "role": "user",
+            "email": "",
+            "createdBy": "admin",
+            "modifiedBy": "admin",
+            "is_active": true,
+            "profile_img": ""
+        },
+        "addstorebyadmin": {
+            "mobile": "",
+            "role": "store",
+            "email": "",
+            "createdBy": "admin",
+            "modifiedBy": "admin",
+            "is_active": true,
+            "profile_img": "",
+            "contact_person_name": "",
+            "contact_person_mobile": "",
+            "phone": "",
+            "gst_no": "",
+            "website": "",
+            "ratings": "",
+            "is_available": "",
+            "remarks": "",
+            "days": "",
+            "start_hour": "",
+            "end_hour": ""
+        },
+        "addbikerbyadmin": {
+            "mobile": "",
+            "role": "store",
+            "email": "",
+            "createdBy": "admin",
+            "modifiedBy": "admin",
+            "is_active": true,
+            "profile_img": "",
+            "biker": {
+                "user_id": "",
+                "dob": "",
+                "license": "",
+                "aadar": "",
+                "remarks": "",
+                "ratings": ""
+            },
+            "addaddressbyadmin": {
+                "type": "",
+                "user_id": "",
+                "street": "",
+                "area": "",
+                "city": "",
+                "district": "",
+                "state": "",
+                "country": "",
+                "pincode": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            "addcategorybyadmin": {
+                "category": ""
+            },
+            "addsubcategory": {
+                "category_id": "",
+                "subcategory": ""
+            },
+            "addproductsbyadmin": {
+                "name": "",
+                "image": "",
+                "description": "",
+                "subcategory_id": "",
+                "unit_id": "",
+                "user_id": "",
+                "store_price": "",
+                "admin_price": "",
+                "commision": "",
+                "is_available": "",
+                "discount_id": "",
+                "priceafterdiscount": "",
+                "available_time": "",
+                "is_deleted": "",
+                "created_by": "",
+                "modified_by": "",
+                "created_at": "",
+                "modified_at": "",
+                "ratings": ""
+            },
+            "adddiscountsbyadmin": {
+                "image": "",
+                "quantity": "",
+                "description": "",
+                "value": "",
+                "unit": "",
+                "expired_on": ""
+            }
+        }
+    }
+]
+// token eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhbGciOiJIUzI1NiIsImlkIjoxLCJzdWIiOjEsImlhdCI6MTU3MjI2MTQ0MywiZXhwIjoxNTcyMzQ3ODQzfQ.6oDSiTxxtIDf-S0ZWdVU61YMlD1y3lJqkRzS0-b0auc
+
+
